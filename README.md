@@ -25,7 +25,7 @@
 
 **crto:** Query certificate log by an organization name.
 ```
-    $ rto "Target"
+    $ crto "Target"
 ```
 
 **crto_big:** Query certificate log by an organization name, includes expired certificates.
